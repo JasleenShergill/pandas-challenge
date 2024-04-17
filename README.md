@@ -1,4 +1,4 @@
-📚 ##PyCitySchools Analysis 🏫
+📚 **PyCitySchools Analysis** 🏫
 
 Welcome to the PyCitySchools Analysis project! In this data exploration journey, we'll dive into the world of education to uncover fascinating insights about school performance and student achievement.
 
